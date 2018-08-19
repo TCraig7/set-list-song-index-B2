@@ -1,0 +1,29 @@
+body {
+  background-color: #EAFEF3;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Shrikhand', sans-serif;
+}
+
+.songs-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+  font-size: 14px;
+  font-family: 'Abel', sans-serif;
+}
+
+img {
+  width: 110px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+ul {
+  text-align: center;
+  margin: 10px 10px;
+  padding: 25px 25px;
+  background: #E8F2EC;
+}
